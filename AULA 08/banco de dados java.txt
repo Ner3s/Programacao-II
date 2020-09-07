@@ -1,0 +1,10 @@
+AULA BANCO DE DADOS 
+
+banco de dados java temos um jdbc
+MySQL Workbench --
+Trocar a senha do root - superUser
+
+Schemas "Esquemas"
+são os bancos 
+
+bean é onde todos os atributos são set e get.

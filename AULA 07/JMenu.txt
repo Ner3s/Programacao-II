@@ -1,0 +1,7 @@
+JMenuBar, JMenu e JMenuItem
+
+Dois pontos importantes
+
+Aceleradores = atalhos 
+
+mnemônico = atlhos, nos aceleradores, vc escolhe a telcla de que quiser, no mnemonicos , usa-se o alt e a tecla. no aceleradores diz qual a tecla que vai usar 
